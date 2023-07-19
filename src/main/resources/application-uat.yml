@@ -1,0 +1,11 @@
+server:
+  port: 9999
+  
+spring:
+  datasource:
+    url: "url in dev"
+ 
+sentence:
+  text: "This sentence is from UAT envirornment! " 
+  
+commondata: " From UAT application.prop"   

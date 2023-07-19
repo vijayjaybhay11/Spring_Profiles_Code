@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+    
+#commondata: " From Common application.prop"  
+
+#sentence:
+#  text:
+#    number: "number from main prop"  
+    
+
+    
